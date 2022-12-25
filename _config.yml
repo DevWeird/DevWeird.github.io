@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Weird Developer"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Welcome Good natured pelple. #"I am an **amazing** person."
-  location         : #"Busan/ South Korea"
+  bio              : Welcome Good natured people. #"I am an **amazing** person."
+  location         : "Busan/ South Korea"
   email            : #"pascal00602@gmail.com"
   links:
     - label: "Email"
