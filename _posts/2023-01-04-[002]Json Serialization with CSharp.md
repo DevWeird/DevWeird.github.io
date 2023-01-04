@@ -1,9 +1,3 @@
-<style>
-    r { color:red }
-    b { color:blue }
-    g { color:green }
-</style>
-
 # How to Json Serialization with CSharp
 
 
