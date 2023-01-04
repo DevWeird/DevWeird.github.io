@@ -51,7 +51,9 @@ using Newtonsoft.Json;
 ```
 
 <br/>
+  
 </details>
+
 <hr style="border:1px solid blue">
 <div style="text-align:right">[<a href="#How-to-Json-Serialization-with-CSharp">Back to Top</a>]</div><br/>
 
