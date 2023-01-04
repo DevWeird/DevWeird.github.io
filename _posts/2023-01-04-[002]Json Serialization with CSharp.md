@@ -92,7 +92,7 @@ public class MGPS
 
 
 
-```C#
+```CSharp
 // class Definition for C# Object
 public class MGPS
 {
@@ -146,7 +146,7 @@ use <font color=green>*Formatting.Indented*</font> option in the
 <div style="text-align:right">[<a href="#How-to-Json-Serialization-with-CSharp">Back to Top</a>]</div>
 
 
-```C#
+```CSharp
 // Define C# Object(Instance)
 MGPS mgps = new MGPS()
 {
@@ -230,7 +230,7 @@ HosunLog Log = new HosunLog()
 <div style="text-align:right">[<a href="#How-to-Json-Serialization-with-CSharp">Back to Top</a>]</div>
 
 
-```C#
+```CSharp
 // Define C# Object(Instance)
 HosunLog Log = new HosunLog()
 {
@@ -264,7 +264,7 @@ string jsonString = JsonConvert.SerializeObject(Log, Formatting.Indented);
 ```
 
 
-```C#
+```CSharp
 jsonString
 ```
 
@@ -329,6 +329,6 @@ jsonString
 
 
 
-```C#
+```CSharp
 
 ```
